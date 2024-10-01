@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there,<br>I'm Sumit Kumar Ravi, a FullStack Developer | Flutter | ReactJS | NextJS | Postgresql | FastApi. <br>I'm thrilled to share my tech learning journey with you through this repository.<br><br>## Focus Areas<br>I'm currently focused on expanding my knowledge and skills in several exciting technologies, including:<br>-Web Development (HTML, CSS, JS, React, Next).<br>-Mobile App Development (Flutter[dart], Firebase, Postgreql).
+Hi there,<br>I'm Sumit Kumar Ravi, a FullStack Developer | Flutter | ReactJS | NextJS | Postgresql | FastApi. <br>I'm thrilled to share my tech learning journey with you through this repository.<br><br>## Focus Areas<br>I'm currently focused on expanding my knowledge and skills in several exciting technologies, including:<br>-Web Development (HTML, CSS, JS, React, Next, (Redux/Axios) for API handling).<br>-Mobile App Development (Flutter[dart], Firebase, PostgreSQL, (Http req/ Dio)).
 
 
 ## 🌐 Socials:
