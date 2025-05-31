@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there,<br>I'm Sumit Kumar Ravi. I am a bit into everything, mostly with MicroServices and Web/App development <br> I have worked with Web development, App development, and am currently going on with Microservices. <br>-Mobile App Development (Flutter[dart], Firebase, PostgreSQL, (Http req/ Dio), React/redux/Axios, Python(Fastapi/pandas), Java(SpringBoot)).
+Hi there,<br>I'm Sumit Kumar Ravi. I am a bit into everything, mostly with MicroServices and Web/App development <br> I have worked with Web development, App development, and am currently going on with Microservices. <br>-Mobile App Development (Flutter[dart], Firebase, PostgreSQL, (Http req/ Dio), React/redux/Axios, Python(Fastapi/pandas), Java(SpringBoot), .NET).
 
 
 ## 🌐 Socials:
